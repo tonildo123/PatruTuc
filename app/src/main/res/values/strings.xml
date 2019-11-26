@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PatruTuc</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_ingresar">INGRESAR</string>
+    <string name="button_inicio_sesion">INICIAR SESION</string>
+
+    <string name="ET_USUARIO">USUARIO</string>
+    <string name="ET_CONTRASE">CONTRASEÑA</string>
+    <string name="ET_REP_CONTRA">REPETIR CONTRASEÑA</string>
+    <string name="BT_Registrarme">Registrarme</string>
+    <string name="TEXTO_DNI">DNI</string>
+    <string name="TEXTO_NOMBRE">NOMBRE</string>
+    <string name="TEXTO_APELLIDO">APELLIDO</string>
+    <string name="TEXTO_TOKEN">COD.SEGURIDAD</string>
+    <string name="TEXTO_DBREVE">BREVE DESCRIPCION</string>
+    <string name="TEXTO_HORARIO">HORARIO</string>
+    <string name="TEXTO_TIPO_DELITO">TIPO_DE_DELITO</string>
+    <string name="TEXTO_HORARIO_DELITO">HORARIO DE LA DENUNCIA</string>
+    <string name="TEXTO_AGENTE">NOMBRE DEL AGENTE/OFICIAL</string>
+    <string name="TEXTO_TITULO">DATOS DELICTIVOS</string>
+    <string name="TEXTO_COD_SEGURIDAD">CODIGO DE SEGURIDAD</string>
+    <string name="BOTON_ENVIAR">ENVIAR</string>
+
+
+</resources>
